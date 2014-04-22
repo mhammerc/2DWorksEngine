@@ -1,0 +1,88 @@
+#version 1.0
+#name Mario_Animation_Conf_File
+#interval 9
+
+#texture_link data/player/mario-charset.png
+#texture_width 17
+#texture_height 30
+
+
+#animation no_event
+	#number 1
+	
+	#width 8
+	#height 79
+	
+
+#animation walk_forward
+	#number 3
+
+	#width 8
+	#height 79
+
+	#width 49
+	#height 79
+
+	#width 87
+	#height 79
+	
+#animation walk_left
+	#number 3
+
+	#width 8
+	#height 79
+
+	#width 49
+	#height 79
+
+	#width 87
+	#height 79
+	
+#animation walk_right
+	#number 3
+
+	#width 8
+	#height 79
+
+	#width 49
+	#height 79
+
+	#width 87
+	#height 79
+	
+#animation walk_down
+	#number 3
+
+	#width 8
+	#height 79
+
+	#width 49
+	#height 79
+
+	#width 87
+	#height 79
+
+#animation jump
+	#number 6
+		
+	#width 8
+	#height 79
+	
+	#width 87
+	#height 79
+
+	#width 127
+	#height 79
+
+	#width 208
+	#height 82
+	
+	#width 248
+	#height 80
+	
+	#width 8
+	#height 79
+
+	
+
+
